@@ -1,4 +1,4 @@
-# Site "chale_hotel"
+# Projeto "chale_hotel"
 
 Desenvolvi esta página durante um curso de HTML5 e CSS3 do básico ao avançado
 
